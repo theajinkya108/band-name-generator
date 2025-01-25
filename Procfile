@@ -1,1 +1,1 @@
-"web: gunicorn <band_name_generator>.wsgi" 
+web: gunicorn band_name_generator.wsgi
