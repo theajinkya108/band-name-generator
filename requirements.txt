@@ -68,7 +68,6 @@ nest-asyncio==1.6.0
 nltk==3.9.1
 notebook==7.3.1
 notebook_shim==0.2.4
-numpy==2.1.2
 overrides==7.7.0
 packaging==24.1
 pandas==2.2.3
@@ -87,14 +86,11 @@ pycparser==2.22
 Pygments==2.18.0
 pyjokes==0.8.3
 pyparsing==3.2.0
-pypiwin32==223
 pytest==8.3.4
 python-dateutil==2.9.0.post0
 python-json-logger==3.2.0
 pyttsx3==2.97
 pytz==2024.2
-pywin32==306
-pywinpty==2.0.14
 PyYAML==6.0.2
 pyzmq==26.2.0
 random_word==1.0.13
